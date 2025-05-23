@@ -68,20 +68,35 @@ Uygulama sayesinde:
 
 
 ProductCatalogApp/
+---
 │
+---
 ├── Models/
+---
 │ ├── Product.cs --> Ürün veri modeli
+---
 │ └── Category.cs --> Kategori veri modeli
+---
 │
+---
 ├── Services/
+---
 │ ├── ProductService.cs --> Ürün CRUD işlemleri
+---
 │ └── CategoryService.cs --> Kategori CRUD işlemleri
+---
 │
+---
 ├── Utils/
+---
 │ ├── DatabaseContext.cs --> MongoDB bağlantısı
+---
 │ └── Logger.cs --> Hata loglama işlemleri
+---
 │
+---
 ├── hata_log.txt --> Log kayıt dosyası
+---
 └── Program.cs --> Uygulama başlangıç noktası (menü)
 
 
