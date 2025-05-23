@@ -50,6 +50,10 @@ Uygulama sayesinde:
 - Loglar zaman ve içerik bazlı sorgulanabilir
 
 
+<img width="683" alt="loglama" src="https://github.com/user-attachments/assets/4aab67e8-ac69-4aee-8bb4-a4eb4bb845f9" />
+
+---
+
 <img width="269" alt="Ekran görüntüsü 2025-05-23 221627" src="https://github.com/user-attachments/assets/1939bd89-eaa8-4818-86c4-59abd95900f8" />
 
 <img width="262" alt="Ekran görüntüsü 2025-05-23 221556" src="https://github.com/user-attachments/assets/94130876-79a5-4236-87a8-1dc6ae83ad1f" />
@@ -98,9 +102,8 @@ ProductCatalogApp/
 ├── hata_log.txt --> Log kayıt dosyası
 ---
 └── Program.cs --> Uygulama başlangıç noktası (menü)
+---
 
-
-<img width="683" alt="loglama" src="https://github.com/user-attachments/assets/4aab67e8-ac69-4aee-8bb4-a4eb4bb845f9" />
 
 <img width="960" alt="Ekran görüntüsü 2025-05-23 222836" src="https://github.com/user-attachments/assets/c6a6549a-7416-4349-8370-67ae3ea326c3" />
 
