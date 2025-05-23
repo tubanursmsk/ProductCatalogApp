@@ -122,7 +122,7 @@ ProductCatalogApp/
    dotnet restore
 
 3. MongoDB bağlantınızı DatabaseContext.cs içinde ayarlayın. Örneğin:
-
+   ```bash
    var client = new MongoClient("mongodb://localhost:27017");
    var database = client.GetDatabase("ProductCatalogDB");
    
