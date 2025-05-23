@@ -20,7 +20,7 @@ Uygulama sayesinde:
 
 | Teknoloji | Açıklama |
 |-----------|----------|
-| **C# (.NET 6 / .NET Core)** | Konsol uygulaması geliştirmek için kullanılan ana programlama dili |
+| **C# (.NET 9 / .NET Core)** | Konsol uygulaması geliştirmek için kullanılan ana programlama dili |
 | **MongoDB** | NoSQL veritabanı yönetim sistemi |
 | **MongoDB.Driver** | MongoDB ile C# uygulamasını entegre eden NuGet paketi |
 | **Katmanlı Mimari** | Uygulama iş mantığını (Services), veritabanı erişimini (Utils) ve veri modellerini (Models) ayrı katmanlarda toplar |
